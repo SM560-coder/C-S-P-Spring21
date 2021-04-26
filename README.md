@@ -1,1 +1,2 @@
-# C-S-P-Spring21
+# Coding-for-Spatial-Pracitces
+Spring 2021
